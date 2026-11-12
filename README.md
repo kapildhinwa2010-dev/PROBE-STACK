@@ -1,5 +1,7 @@
 # PROBE-STACK
 
+[![Stars](https://img.shields.io/github/stars/kapildhinwa2010-dev/PROBE-STACK?style=flat-square)](https://github.com/kapildhinwa2010-dev/PROBE-STACK/stargazers) [![Forks](https://img.shields.io/github/forks/kapildhinwa2010-dev/PROBE-STACK?style=flat-square)](https://github.com/kapildhinwa2010-dev/PROBE-STACK/network/members) [![Issues](https://img.shields.io/github/issues/kapildhinwa2010-dev/PROBE-STACK?style=flat-square)](https://github.com/kapildhinwa2010-dev/PROBE-STACK/issues) [![Top language](https://img.shields.io/github/languages/top/kapildhinwa2010-dev/PROBE-STACK?style=flat-square)](https://github.com/kapildhinwa2010-dev/PROBE-STACK)
+
 Map where a property lives inside a model, one tiny probe per layer.
 
 PROBE-STACK trains a plain logistic probe by seeded gradient descent on the hidden states of every layer and reports per-layer train accuracy. The layer where the property is easiest to read out is where it lives.
